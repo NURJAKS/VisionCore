@@ -47,10 +47,13 @@ cd VisionCore
 python3 -m venv venv
 source venv/bin/activate
 
-pip install opencv-python mediapipe ultralytics
-
+Скопируйте и вставьте следующую команду в терминал:
+```bash
+pip install ultralytics mediapipe opencv-python
+```
 🚀 Запуск
 python main.py
+
 💡 Используемые технологии
 
 🟢 YOLOv8 — детекция объектов
