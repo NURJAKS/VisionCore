@@ -40,14 +40,14 @@
 ---
 
 ### ⚙️ Установка
+```bash
 git clone https://github.com/NURJAKS/VisionCore.git
-
 cd VisionCore
-
 python3 -m venv venv
 source venv/bin/activate
-
+```
 Скопируйте и вставьте следующую команду в терминал:
+
 ```bash
 pip install ultralytics mediapipe opencv-python
 ```
